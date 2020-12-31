@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="PtestSpringboot261220">
+      <CLASSES>
+        <root url="file://$USER_HOME$/IdeaProjects/PtestSpringboot261220" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES>
+        <root url="file://$USER_HOME$/IdeaProjects/PtestSpringboot261220/PtestSortCollection/src" />
+        <root url="file://$USER_HOME$/IdeaProjects/PtestSpringboot261220/PtestSpringboot261220/.mvn/wrapper" />
+        <root url="file://$USER_HOME$/IdeaProjects/PtestSpringboot261220/PtestSpringboot261220/src/main/java" />
+        <root url="file://$USER_HOME$/IdeaProjects/PtestSpringboot261220/PtestSpringboot261220/src/test/java" />
+      </SOURCES>
+    </library>
+  </component>
+</application>
