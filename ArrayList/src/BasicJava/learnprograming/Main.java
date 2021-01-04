@@ -14,7 +14,7 @@ public class Main {
         data.add(new Video("v7", 10));
         int count = 0;
         for (Video datas : data) {
-            System.out.println(datas.name + " " + datas.rating);
+            System.out.println(datas.name + " GG " + datas.rating);
             if(datas.rating >= 6){
                 count++;
             }
